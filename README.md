@@ -14,3 +14,6 @@ repo sync -j24 --force-sync
 
 # kernel dream
 git clone --depth=1 --single-branch https://github.com/JamieHoSzeYui/dream -b ten kernel/xiaomi/mt6768
+
+#Script Script from BoxInBox
+wget https://cheems.mirrorbomt.workers.dev/mt6768.sh && bash mt6768.sh
