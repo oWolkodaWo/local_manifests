@@ -10,3 +10,7 @@ curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.
 # Sync
 repo sync -j24 --force-sync
 ```
+
+
+# kernel dream
+git clone --depth=1 --single-branch https://github.com/JamieHoSzeYui/dream -b ten kernel/xiaomi/mt6768
